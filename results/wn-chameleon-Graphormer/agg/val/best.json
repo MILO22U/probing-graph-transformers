@@ -1,0 +1,1 @@
+{"epoch": 34, "time_epoch": 0.031, "time_epoch_std": 0.0, "loss": 1.22555, "loss_std": 0.0, "lr": 0.0, "lr_std": 0.0, "params": 252377.0, "params_std": 0.0, "time_iter": 0.031, "time_iter_std": 0.0, "accuracy": 0.58711, "accuracy_std": 0.0, "f1": 0.57878, "f1_std": 0.0, "auc": 0.82429, "auc_std": 0.0}
